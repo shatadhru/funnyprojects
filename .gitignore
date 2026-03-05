@@ -1,2 +1,15 @@
 node_modules/
 .env
+
+Fetching enrollments for course: SSC 27 - পদার্থবিজ্ঞান, রসায়ন, গণিত কম্বো কোর্স (ID: 892)
+Fetching enrollments for course: SSC 27 - পদার্থবিজ্ঞান, রসায়ন, গনিত, উচ্চতর গণিত কম্বো কোর্স (ID: 1052)
+Fetching enrollments for course: SSC 28 - পদার্থবিজ্ঞান, রসায়ন, গণিত কম্বো কোর্স (ID: 897)
+Fetching enrollments for course: SSC 28 - পদার্থবিজ্ঞান, রসায়ন, গনিত, উচ্চতর গণিত কম্বো কোর্স (ID: 1044)
+Fetching enrollments for course: এস এস সি - ২০২৬ পদার্থবিজ্ঞান (ID: 2195)
+Fetching enrollments for course: এস এস সি - ২০২৬ পদার্থবিজ্ঞান ও রসায়ন কম্বো কোর্স (ID: 2484)
+Fetching enrollments for course: এস এস সি - ২০২৬ রসায়ন (ID: 2407)
+Fetching enrollments for course: এস এস সি ২৭ - রসায়ন - বেসিক টু প্রিমিয়াম (ID: 319)
+Fetching enrollments for course: এস এস সি ২৭ – উচ্চতর গণিত – বেসিক টু প্রিমিয়াম (ID: 334)
+Fetching enrollments for course: এস এস সি ২৭ – গণিত – বেসিক টু প্রিমিয়াম (ID: 329)
+Fetching enrollments for course: এস এস সি ২৭ – পদার্থবিজ্ঞান- বেসিক টু প্রিমিয়াম (ID: 327)
+/generated/prisma
