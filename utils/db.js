@@ -6,4 +6,4 @@ const pool = new PrismaPg({ connectionString: process.env.DATABASE_URL })
 const prisma = new PrismaClient({ adapter: pool })
 
 
-module.exports = prisma
+module.exports = prisma;
